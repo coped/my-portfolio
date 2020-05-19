@@ -1,7 +1,7 @@
 import React from "react";
 import "./Banner.css";
 import arrow from "assets/images/banner-icons/angle-down-solid.svg";
-import { socialLinks } from "lib/content";
+import { socialLinks } from "lib";
 
 export default function Banner() {
   const scrollDown = () => {

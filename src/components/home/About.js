@@ -1,6 +1,6 @@
 import React from "react";
 import portraitOfMe from "assets/images/me-256x256.jpg";
-import { aboutMe, booksAndCourses } from "lib/content";
+import { aboutMe, booksAndCourses } from "lib";
 
 export default function About() {
   return (

@@ -1,6 +1,6 @@
 import React from "react";
 import { Toolbox } from "components/home";
-import { tools } from "lib/content";
+import { tools } from "lib";
 
 export default function Tools() {
   return (
